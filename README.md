@@ -1,35 +1,93 @@
-## AlgoExpert
+# AlgoExpert
 
-### Arrays
+My solutions to AlgoExpert problems, organized by category.
 
-### Binary Search Trees
+---
 
-### Binary Trees
+## Arrays
 
-### Dynamic Programming
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+| 1 | [Two Number Sum](arrays/exercise1_two_number_sum.py) | 🟢 Easy | ✅ |
 
-### Famous Algorithms
+## Binary Search Trees
 
-### Graphs
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
 
-### Greedy Algorithms
+## Binary Trees
 
-### Heaps
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
 
-### Linked Lists
+## Dynamic Programming
 
-### Recursion
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
 
-### Searching
+## Famous Algorithms
 
-### Sorting
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
 
-### Stacks
+## Graphs
 
-### Strings
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
 
-### Tries
+## Greedy Algorithms
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Heaps
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Linked Lists
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Recursion
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Searching
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Sorting
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Stacks
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Strings
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+## Tries
+
+| # | Name | Difficulty | Status |
+|---|------|------------|--------|
+
+---
 
 ## Design System
 
+| # | Name | Status |
+|---|------|--------|
+
 ## ML
+
+| # | Name | Status |
+|---|------|--------|
