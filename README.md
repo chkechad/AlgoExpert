@@ -6,9 +6,10 @@ My solutions to AlgoExpert problems, organized by category.
 
 ## Arrays
 
-| # | Name | Difficulty | Status |
-|---|------|------------|--------|
-| 1 | [Two Number Sum](arrays/exercise1_two_number_sum.py) | 🟢 Easy | ✅ |
+| # | Name                                                             | Difficulty | Status |
+|---|------------------------------------------------------------------|------------|--------|
+| 1 | [Two Number Sum](arrays/exercise1_two_number_sum.py)             | 🟢 Easy    | ✅      |
+| 1 | [Validate Subsequence](arrays/exercise2_validate_subsequence.py) | 🟢 Easy    | ✅      |
 
 ## Binary Search Trees
 
