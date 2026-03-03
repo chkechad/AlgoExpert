@@ -6,12 +6,13 @@ My solutions to AlgoExpert problems, organized by category.
 
 ## Arrays
 
-| # | Name                                                             | Difficulty | Status |
-|---|------------------------------------------------------------------|------------|--------|
-| 1 | [Two Number Sum](arrays/exercise1_two_number_sum.py)             | 🟢 Easy    | ✅      |
-| 2 | [Validate Subsequence](arrays/exercise2_validate_subsequence.py) | 🟢 Easy    | ✅      |
-| 3 | [Sorted Squared Array](arrays/exercise3_sorted_squared_array.py) | 🟢 Easy    | ✅      |
-| 4 | [Tournament Winner](arrays/exercise4_tournament_winner.py)       | 🟢 Easy    | ✅      |
+| # | Name                                                                     | Difficulty | Status |
+|---|--------------------------------------------------------------------------|------------|--------|
+| 1 | [Two Number Sum](arrays/exercise1_two_number_sum.py)                     | 🟢 Easy    | ✅      |
+| 2 | [Validate Subsequence](arrays/exercise2_validate_subsequence.py)         | 🟢 Easy    | ✅      |
+| 3 | [Sorted Squared Array](arrays/exercise3_sorted_squared_array.py)         | 🟢 Easy    | ✅      |
+| 4 | [Tournament Winner](arrays/exercise4_tournament_winner.py)               | 🟢 Easy    | ✅      |
+| 5 | [Non Constructible Change](arrays/exercise5_non_constructible_change.py) | 🟢 Easy    | ✅      |
 
 ## Binary Search Trees
 
